@@ -1,0 +1,190 @@
+<link href="https://fonts.googleapis.com/css?family=Bebas+Neue|Open+Sans&display=swap" rel="stylesheet">
+/*body*/
+body{margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;}
+
+/*header*/
+        .Header h1{color: #ffffff;
+            font-family: 'Open Sans', sans-serif;
+            border-style: solid #d6cfbb;
+            max-width: 100%;
+            max-height: 10%;
+            background-color: #d6cfbb;
+            padding-left: 2%;
+            padding-top: .5%;
+            padding-bottom: .5%;}
+
+        /*Main Element*/
+        #MainElement img{width: 25%;
+            float: left;
+            padding-right: 5%;
+            padding-left: 3%}
+
+        #MainElement h3{padding-right: 5%;}
+        #MainElement p{padding-right: 5%;}
+
+            /*ORIGINAL CAST*/
+                #Cast h2{
+                color: #ffffff;
+                font-family: 'Open Sans', sans-serif;
+                border-style: solid #d6cfbb;
+                max-width: 100%;
+                max-height: 10%;
+                background-color: #d6cfbb;
+                padding-left: 2%;
+                padding-top: .5%;
+                padding-bottom: .5%;}
+
+                /*table*/
+                    td{width: 50%;}
+
+                        /*Veda*/
+                        #Veda img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #Veda h5{padding-right: 5%}
+                        #Veda p{padding-right: 5%}
+
+                        /*Mari*/
+                        #Mari img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            }
+
+                        #Mari h5{padding-right: 5%}
+                        #Mari p{padding-right: 5%}
+                        /*AS*/
+                        #AS img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #AS p{padding-right: 5%}
+                        #AS h5{padding-right: 5%}
+
+                        /*AS*/
+                        #AS img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #AS ph5{padding-right: 5%}
+                        #AS p{padding-right: 5%}
+
+                        /*ANS*/
+                        #ANS img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            }
+
+                        #ANS p{padding-right: 5%}
+                        #ANS h5{padding-right: 5%}
+
+                        /*Jessica*/
+                        #Jessica img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #Jessica h5{padding-right: 5%}
+                        #Jessica p{padding-right: 5%}
+
+                        /*Leah*/
+                        #Leah img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            }
+
+                        #Leah h5{padding-right: 5%}
+                        #Leah p{padding-right: 5%}
+
+                        /*Rachel*/
+                        #Rachel img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #Rachel h5{padding-right: 5%}
+                        #Rachel p{padding-right: 5%}
+
+                        /*Adelle*/
+                        #Adelle img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            }
+
+                        #Adelle h5{padding-right: 5%}
+                        #Adelle p{padding-right: 5%}
+
+                        /*Somaya*/
+                        #Somaya img{width: 12%;
+                            float: left;
+                            padding-right: 5%;
+                            padding-left: 3%}
+
+                        #Somaya h5{padding-right: 5%}
+                        #Somaya p{padding-right: 5%}
+
+        /*Set List*/
+            #SL h2{
+                color: #ffffff;
+                font-family: 'Open Sans', sans-serif;
+                border-style: solid #d6cfbb;
+                max-width: 100%;
+                max-height: 10%;
+                background-color: #d6cfbb;
+                padding-left: 2%;
+                padding-top: .5%;
+                padding-bottom: .5%;}
+
+            #SL img{width: 88%;
+                float: Center;
+                padding-left: 5%;
+                padding-right: 5%;}
+
+        /*Creative Team*/
+            #CT h2{
+                color: #ffffff;
+                font-family: 'Open Sans', sans-serif;
+                border-style: solid #d6cfbb;
+                max-width: 100%;
+                max-height: 10%;
+                background-color: #d6cfbb;
+                padding-left: 2%;
+                padding-top: .5%;
+                padding-bottom: .5%;}
+
+            #CT img{width: 88%;
+                float: Center;
+                padding-left: 5%;
+                padding-right: 5%;}
+
+    /*footer*/
+    footer{
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #d6cfbb;
+        color: #ffffff;
+        float: center;}
+
+    footer img{
+        float: center;
+        width: 8%;
+        padding: 2.5% 0%;}
+
+    .column{
+        float: left;
+        width: 33.33%;}
+
+    .row:after{
+        content:"";
+        display: table;
+        clear: both;}
+
+    #CP{text-align:left;}
+    #Contact{padding-left: 15%;}

@@ -1,0 +1,51 @@
+<link href="https://fonts.googleapis.com/css?family=Bebas+Neue|Open+Sans&display=swap" rel="stylesheet">
+/*body*/
+body{margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;}
+
+    /*header*/
+        .Header h1{color: #ffffff;
+            font-family: 'Open Sans', sans-serif;
+            border-style: solid #d6cfbb;
+            max-width: 100%;
+            max-height: 10%;
+            background-color: #d6cfbb;
+            padding-left: 2%;
+            padding-top: .5%;
+            padding-bottom: .5%;}
+
+    /*BIO*/
+        #BIO img{width: 20%;
+            float: left;
+            padding-right: 5%;
+            padding-left: 3%}
+
+        #BIO dt{padding-right: 5%}
+
+/*footer*/
+    footer{
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #d6cfbb;
+        color: #ffffff;
+        float: center;}
+
+    footer img{
+        float: center;
+        width: 8%;
+        padding: 2.5% 0%;}
+
+    .column{
+        float: left;
+        width: 33.33%;}
+
+    .row:after{
+        content:"";
+        display: table;
+        clear: both;}
+
+    #CP{text-align:left;}
+    #Contact{padding-left: 15%;}
